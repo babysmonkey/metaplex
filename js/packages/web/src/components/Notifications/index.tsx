@@ -487,7 +487,7 @@ export function Notifications() {
       content={content}
       trigger="click"
     >
-      "<h1 className=>file:///Users/saad/Downloads/logo.ico</h1>"
+      <h1 className="title">file:///Users/saad/Downloads/logo.ico</h1>
     </Popover>
   );
 
